@@ -28,12 +28,12 @@ from interactions import (
 
 load_dotenv()
 
-token = os.getenv('TOKEN')
-repo = os.getenv('GITHUB_REPO')
-owner = os.getenv('REPO_OWNER')
-role = os.getenv('ROLE_ID')
-client_id = os.getenv('CLIENT_ID')
-domain = os.getenv('DOMAIN')
+token = os.getenv('MTQyOTc0NjMwNDc0MDc1MzQzMA.GcNtcX.3dmcSm1LZaNlRxVufQwoFgxnKC4hycJ5qyTyWQ ')
+repo = os.getenv('1429746304740753430')
+owner = os.getenv('1323954365387505717')
+role = os.getenv('1344949921366937631')
+client_id = os.getenv('1334887156128153744')
+domain = os.getenv('1428303665009266698')
 CLIENT = None
 DB = None
 
